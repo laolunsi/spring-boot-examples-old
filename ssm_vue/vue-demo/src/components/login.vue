@@ -31,7 +31,7 @@ export default {
   methods: {
     login() {
       console.log(JSON.stringify(this.loginForm));
-      this.axios.get("/api/login", {params: {name: this.loginForm.name, password: this.loginForm.password}}).then(({data}) => {
+      this.axios.get("http://8060/api/login", {params: {name: this.loginForm.name, password: this.loginForm.password}}).then(({data}) => {
         if (data.success) {
           window.localStorage.setItem("user", JSON.stringify(data.data.user));
           this.$router.push("/home");
