@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.eknown.model.dao.UserDAO">
+    <select id="findByName" parameterType="java.lang.String" resultType="com.eknown.model.beans.entity.User">
+        SELECT id, name, password, createTime, lastLoginTime
+        FROM user
+        WHERE name = #{name}
+    </select>
+
+    <select id="findById" parameterType="java.lang.Integer" resultType="com.eknown.model.beans.entity.User">
+        SELECT id, name, password, createTime, lastLoginTime
+        FROM user
+        WHERE id = #{id}
+    </select>
+
+    <select id="findAll" resultType="com.eknown.model.beans.entity.User">
+        SELECT id, name, password, createTime, lastLoginTime
+        FROM user
+    </select>
+</mapper>

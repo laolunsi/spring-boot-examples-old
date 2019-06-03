@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.eknown.model.dao.MenuDAO">
+    <select id="findAll" resultType="com.eknown.model.beans.entity.Menu">
+        SELECT id, parentId, name, url, permission, type, sort
+        FROM menu
+    </select>
+
+    <select id="findByUserName" resultType="com.eknown.model.beans.entity.Menu">
+        SELECT m.permission
+        FROM role as r
+          LEFT JOIN user_role as ur ON r.id = ur.roleId
+          LEFT JOIN user as u ON u.id = ur.userId
+          LEFT JOIN role_menu as rm ON rm.roleId = r.id
+          LEFT JOIN menu as m ON rm.menuId = m.id
+        WHERE u.name = #{userName}
+          AND m.permission IS NOT NULL
+          AND m.permission &lt;&gt; ''
+    </select>
+</mapper>
