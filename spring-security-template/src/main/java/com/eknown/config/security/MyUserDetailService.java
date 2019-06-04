@@ -1,4 +1,4 @@
-package com.eknown.config;
+package com.eknown.config.security;
 
 import com.eknown.logic.service.MenuService;
 import com.eknown.model.beans.entity.User;

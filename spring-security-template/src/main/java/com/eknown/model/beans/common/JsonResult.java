@@ -19,14 +19,20 @@ public class JsonResult {
     public static final int NO_LOGIN = 400;
 
     /**
+     * 登录失败
+     */
+    public static final int LOGIN_FAILED = 401;
+
+    /**
      * TOKEN过期
      */
-    public static final int TOKEN_EXPIRED = 401;
+    public static final int TOKEN_EXPIRED = 402;
 
     /**
      * 无权限
      */
-    public static final int NO_PERMISSION = 402;
+    public static final int NO_PERMISSION = 403;
+
 
     private Boolean success;
     private Integer code;
@@ -38,6 +44,12 @@ public class JsonResult {
     }
 
     public JsonResult(Boolean success, String msg) {
+        this.success = success;
+        this.msg = msg;
+    }
+
+    public JsonResult(Integer code, Boolean success, String msg) {
+        this.code = code;
         this.success = success;
         this.msg = msg;
     }

@@ -5,10 +5,7 @@ import com.eknown.model.beans.common.JsonResult;
 import com.eknown.model.beans.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -36,6 +33,12 @@ public class UserAction {
     @PostMapping(value = "save")
     @PreAuthorize("hasAnyAuthority('user:add', 'user:update')")
     public JsonResult save(User user) {
+        return new JsonResult(false, "暂未实现该接口");
+    }
+
+    @DeleteMapping(value = "{id}")
+    @PreAuthorize("hasAuthority('user:delete')")
+    public JsonResult delete(@PathVariable("id") Integer id) {
         return new JsonResult(false, "暂未实现该接口");
     }
 

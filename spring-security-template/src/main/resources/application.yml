@@ -13,6 +13,15 @@ spring:
       test-while-idle: true
     driver-class-name: com.mysql.jdbc.Driver
 
+  jackson:
+    serialization:
+      write-dates-as-timestamps: true
+
+  redis:
+    host: localhost
+    port: 6379
+    database: 1
+
 mybatis:
   mapper-locations: classpath:mapper/*.xml
   configuration:
