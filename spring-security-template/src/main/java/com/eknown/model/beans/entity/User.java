@@ -15,6 +15,9 @@ public class User {
     private Date createTime;
     private Date lastLoginTime;
 
+    //
+    private Integer[] roleIds; // 用户角色id列表
+
     public Integer getId() {
         return id;
     }
@@ -53,5 +56,13 @@ public class User {
 
     public void setLastLoginTime(Date lastLoginTime) {
         this.lastLoginTime = lastLoginTime;
+    }
+
+    public Integer[] getRoleIds() {
+        return roleIds;
+    }
+
+    public void setRoleIds(Integer[] roleIds) {
+        this.roleIds = roleIds;
     }
 }

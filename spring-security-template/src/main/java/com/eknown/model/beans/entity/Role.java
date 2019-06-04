@@ -11,6 +11,9 @@ public class Role {
     private String name;
     private String realName;
 
+    //
+    private Integer[] menuIds; // 角色具有的菜单权限数组
+
     public Integer getId() {
         return id;
     }
@@ -33,5 +36,13 @@ public class Role {
 
     public void setRealName(String realName) {
         this.realName = realName;
+    }
+
+    public Integer[] getMenuIds() {
+        return menuIds;
+    }
+
+    public void setMenuIds(Integer[] menuIds) {
+        this.menuIds = menuIds;
     }
 }
