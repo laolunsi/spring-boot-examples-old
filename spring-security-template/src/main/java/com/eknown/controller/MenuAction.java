@@ -13,7 +13,8 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping(value = "menu")
 public class MenuAction {
-    @GetMapping(value = "")
+
+    @GetMapping(value = "list")
     @PreAuthorize("hasAuthority('menu:list')")
     public JsonResult list() {
         return new JsonResult(false, "暂未实现该接口");

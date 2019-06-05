@@ -13,4 +13,8 @@ public interface UserDAO {
     User findById(int id);
 
     List<User> findAll();
+
+    boolean insert(User user);
+
+    boolean update(User user);
 }

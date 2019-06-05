@@ -22,6 +22,11 @@ public class MenuServiceImpl implements MenuService {
     private MenuDAO menuDAO;
 
     @Override
+    public List<Menu> list() {
+        return menuDAO.findAll();
+    }
+
+    @Override
     public String findUserPermissions(String userName) {
         List<Menu> list = menuDAO.findByUserName(userName);
         return list.stream().map(Menu::getPermission).collect(Collectors.joining(","));

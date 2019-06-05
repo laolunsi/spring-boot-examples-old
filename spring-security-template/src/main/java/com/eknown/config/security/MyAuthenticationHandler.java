@@ -13,6 +13,7 @@ import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.AuthenticationException;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.web.AuthenticationEntryPoint;
 import org.springframework.security.web.access.AccessDeniedHandler;
@@ -85,6 +86,7 @@ public class MyAuthenticationHandler implements AuthenticationFailureHandler, Au
         jsonResult.put("token", token);
         httpServletResponse.setContentType("application/json;charset=utf-8");
         httpServletResponse.getWriter().write(jsonResult.toString());
+        SecurityContextHolder.getContext().setAuthentication(null); // 将session数据清除
     }
 
     /**

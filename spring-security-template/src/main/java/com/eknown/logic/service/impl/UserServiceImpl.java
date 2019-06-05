@@ -28,4 +28,21 @@ public class UserServiceImpl implements UserService {
     public User findByName(String name) {
         return userDAO.findByName(name);
     }
+
+    @Override
+    public boolean save(User user) {
+        boolean res = false;
+        if (user != null) {
+            if (user.getId() == null) {
+                res = userDAO.insert(user);
+                if (res && user.getRoleIds() != null && user.getRoleIds().length > 0) {
+                    // 设置用户角色
+
+                }
+            } else {
+                res = userDAO.update(user);
+            }
+        }
+        return false;
+    }
 }

@@ -8,36 +8,19 @@
       background-color="#545c64"
       text-color="#fff"
       active-text-color="#ffd04b"
-      :collapse="isCollapse"
       :router="true">
-      <el-menu-item index="/admin">
-        <i class="el-icon-menu"></i>
-        <span slot="title">系统首页</span>
-      </el-menu-item>
-      <el-menu-item index="/admin/article">
-        <i class="el-icon-document"></i>
-        <span slot="title">文章管理</span>
-      </el-menu-item>
-      <el-menu-item index="/admin/comment" disabled>
-        <i class="el-icon-message"></i>
-        <span slot="title">评论管理</span>
-      </el-menu-item>
-      <el-menu-item index="/admin/user">
+      <el-menu-item index="/">
         <i class="el-icon-service"></i>
         <span slot="title">用户管理</span>
       </el-menu-item>
-      <el-menu-item index="/admin/message">
+      <el-menu-item index="/role">
         <i class="el-icon-message"></i>
-        <span slot="title">消息管理</span>
+        <span slot="title">角色管理</span>
       </el-menu-item>
-      <el-menu-item index="/admin/settings">
+      <el-menu-item index="/menu">
         <i class="el-icon-setting"></i>
-        <span slot="title">系统设置</span>
+        <span slot="title">菜单管理</span>
       </el-menu-item>
-      <div id="expandView" @click="expandSwitch">
-        <i :class="expandIconClass" style="margin-right: 5px; width: 24px"></i>
-        <span>{{expandText}}</span>
-      </div>
     </el-menu>
   </div>
 </template>
@@ -47,7 +30,6 @@
     name: "sidebar",
     data() {
       return {
-        isCollapse: true, // 是否收起，true表示收起
         expandIconClass: 'el-icon-arrow-right',
         expandText: '',
         defaultActiveIndex: this.$router.currentRoute.path || '/admin'
@@ -59,12 +41,6 @@
         this.defaultActiveIndex = this.$router.currentRoute.path;  //默认选中
       }
     },
-    /*
-    mounted() {
-      console.log("mounted");
-      this.defaultActiveIndex = this.$router.currentRoute.path;  //默认选中
-      console.log("new router: " + this.defaultActiveIndex);
-    },*/
     methods: {
       handleOpen(key, keyPath) {
         console.log(key, keyPath);
@@ -93,12 +69,5 @@
 
   .el-menu-vertical-demo {
     height: 878px;
-  }
-
-  #expandView {
-    color: #fff;
-    font-size: 14px;
-    line-height: 56px;
-    cursor: pointer
   }
 </style>

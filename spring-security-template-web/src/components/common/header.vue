@@ -1,10 +1,7 @@
 <template>
     <div style="background-color: #545c64; height: 60px;">
-<!--
-      <div style="float: left; width: 65px; line-height: 60px" @click="goSite"><i class="el-icon-menu"></i></div>
--->
       <div style="float: left; margin-left: 20px; line-height: 60px;">
-        <span style="color: black">Console</span>
+        <span style="color: black">Nestling权限管理模板</span>
       </div>
       <div style="float: right; margin-right: 20px; line-height: 60px;">
         <el-dropdown @command="handleCommand" trigger="click">
@@ -15,42 +12,9 @@
           </el-dropdown-menu>
         </el-dropdown>
       </div>
-      <div style="float: right; margin-right: 20px; line-height: 60px;">
-        <router-link style="color: black" :to="{path: '/admin/message'}">消息中心</router-link>
-      </div>
-      <div style="float: right; margin-right: 20px; line-height: 60px;">
-        <router-link style="color: black" :to="{path: '/'}">网站</router-link>
-      </div>
-
-      <!--  <el-menu
-        class="el-menu-demo"
-        mode="horizontal"
-        @select="handleSelect"
-        background-color="#545c64"
-        text-color="#fff"
-        active-text-color="#ffd04b">
-        <div style="float: left; width: 65px; line-height: 60px" @click="goSite"><i class="el-icon-menu"></i></div>
-        <el-menu-item index="0">控制台</el-menu-item>
-&lt;!&ndash;        <el-menu-item index="1">
-          <router-link :to="{path: '/admin/add_article'}">
-            <i class="el-icon-edit"></i>
-            <span>创建新文章</span>
-          </router-link>
-        </el-menu-item>&ndash;&gt;
-        <el-menu-item index="3" style="float: right">
-          <el-dropdown @command="handleCommand" trigger="click">
-            <span class="el-dropdown-link" style="color: black">{{user.name}}<i class="el-icon-arrow-down el-icon&#45;&#45;right"></i></span>
-            <el-dropdown-menu slot="dropdown">
-              <el-dropdown-item command="password">修改密码</el-dropdown-item>
-              <el-dropdown-item command="logout">退出登录</el-dropdown-item>
-          </el-dropdown-menu>
-        </el-dropdown>
-        </el-menu-item>
-        <el-menu-item index="4" disabled style="float: right">消息中心</el-menu-item>
-        <el-menu-item index="5" disabled style="float: right">网站</el-menu-item>
-      </el-menu>-->
 
       <el-dialog
+        id="passwordDialog"
         title="修改密码"
         :visible.sync="passDialogVisible"
         class="dialog">
@@ -153,4 +117,8 @@
 </script>
 
 <style scoped>
+  #passwordDialog {
+    margin: 0 auto;
+    width: 50%
+  }
 </style>

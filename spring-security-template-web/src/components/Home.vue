@@ -17,8 +17,8 @@
 </template>
 
 <script>
-  import vHeader from './header'
-  import vSideBar from './sidebar'
+  import vHeader from './common/header'
+  import vSideBar from './common/sidebar'
 
   export default {
     name: "home",
@@ -40,8 +40,4 @@
     margin-left: 20px;
   }
 
-/*  .home-right {
-    position: relative;
-    margin-left: 60px;
-  }*/
 </style>

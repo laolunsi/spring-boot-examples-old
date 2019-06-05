@@ -17,4 +17,21 @@
         SELECT id, name, password, createTime, lastLoginTime
         FROM user
     </select>
+
+    <insert id="insert" parameterType="com.eknown.model.beans.entity.User">
+        <selectKey resultType="java.lang.Integer" order="AFTER" keyProperty="id">
+            SELECT LAST_INSERT_ID()
+        </selectKey>
+
+        INSERT INTO user
+        (name, password, createTime)
+        VALUES
+        (#{name}, #{password}, #{createTime})
+    </insert>
+
+    <update id="update" parameterType="com.eknown.model.beans.entity.User">
+        UPDATE user
+        SET name = #{name}, password = #{password}, lastLoginTime = #{lastLoginTime}
+        WHERE id = #{id}
+    </update>
 </mapper>

@@ -45,12 +45,12 @@ public class TokenFilter extends OncePerRequestFilter {
             }
 
             if (user != null && StringUtils.isNotBlank(user.getName())) {
+                logger.info("当前用户：" + user.getName());
                 UserDetails userDetails = userDetailService.loadUserByUsername(user.getName());
                 UsernamePasswordAuthenticationToken authenticationToken =
                         new UsernamePasswordAuthenticationToken(userDetails, null, userDetails.getAuthorities());
 
                 authenticationToken.setDetails(userDetails);
-                Authentication old = SecurityContextHolder.getContext().getAuthentication();
                 SecurityContextHolder.getContext().setAuthentication(authenticationToken);
             }
         }
