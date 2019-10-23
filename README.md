@@ -9,3 +9,11 @@ springboot快速上手教程、示例代码
 - [ssm_vue](https://github.com/laolunsi/spring-boot-examples/tree/master/ssm_vue)：使用SpringBoot和Vue建立前后端分离项目，项目教程——[前后端分离项目初体验——教程+实例Demo](https://blog.csdn.net/qq_28379809/article/details/87995524)
 
 未完待续...
+
+
+---
+
+## 学习、交流讨论
+欢迎关注公众号：**猿生物语**，或扫码：
+
+![](https://github.com/laolunsi/img-service/blob/master/public/%E7%8C%BF%E7%94%9F%E7%89%A9%E8%AF%AD.jpg)
