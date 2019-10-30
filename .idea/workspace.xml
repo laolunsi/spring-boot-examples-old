@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d67b05e8-03b9-4c62-82a7-fe5a6184a8f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/src/main/java/com/example/adminserver/AdminServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/src/test/java/com/example/adminserver/AdminServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/src/main/java/com/example/clientdemo/ClientDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/src/main/java/com/example/clientdemo/HelloAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/src/test/java/com/example/clientdemo/ClientDemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-spring-boot-admin-demo/spring-boot-admin-demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +13,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="ProjectId" id="1SehD9FbiCwc2KB1ZQDxqZbyxWi" />
   <component name="ProjectLevelVcsManager">
@@ -87,7 +58,7 @@
       <workItem from="1551275013259" duration="829000" />
       <workItem from="1559099445319" duration="36000" />
       <workItem from="1571929851490" duration="729000" />
-      <workItem from="1572437346409" duration="229000" />
+      <workItem from="1572437346409" duration="1517000" />
     </task>
     <task id="LOCAL-00001" summary="添加SpringSecurity+OAuth2实现单点登陆系统的示例项目">
       <created>1571930024294</created>
@@ -96,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571930024294</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加SpringBootAdmin示例项目源码">
+      <created>1572437711575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572437711575</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加SpringSecurity+OAuth2实现单点登陆系统的示例项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加SpringSecurity+OAuth2实现单点登陆系统的示例项目" />
+    <MESSAGE value="添加SpringBootAdmin示例项目源码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加SpringBootAdmin示例项目源码" />
   </component>
 </project>
