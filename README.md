@@ -10,6 +10,7 @@ springboot快速上手教程、示例代码
 3. sso-oauth-demo: SpringSecurity + OAuth2实现单点登录系统，项目源码：[04-sso-oauth-demo](https://github.com/laolunsi/spring-boot-examples/tree/master/04-sso-oauth2-demo)，项目教程：[SpringSecurity+OAuth2实现单点登录（详细教程+源码）](https://blog.csdn.net/qq_28379809/article/details/102734384)
 4. spring-boot-admin-demo: SpringBoot Admin实现SpringBoot程序健康监控，项目源码：[05-spring-boot-admin-demo](https://github.com/laolunsi/spring-boot-examples/tree/master/05-spring-boot-admin-demo)，项目教程：[SpringBoot健康监控](https://blog.csdn.net/qq_28379809/article/details/102593592)
    扩展：SpringCloud中微服务的健康监控：https://github.com/laolunsi/spring-cloud-examples
+
 未完待续...
 
 

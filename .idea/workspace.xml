@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d67b05e8-03b9-4c62-82a7-fe5a6184a8f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +58,7 @@
       <workItem from="1559099445319" duration="36000" />
       <workItem from="1571929851490" duration="729000" />
       <workItem from="1572437346409" duration="1517000" />
+      <workItem from="1573102176339" duration="1152000" />
     </task>
     <task id="LOCAL-00001" summary="添加SpringSecurity+OAuth2实现单点登陆系统的示例项目">
       <created>1571930024294</created>
@@ -74,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572437711575</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加spring-boot-mongo-demo源码">
+      <created>1573102265312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573102265312</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +104,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加SpringSecurity+OAuth2实现单点登陆系统的示例项目" />
     <MESSAGE value="添加SpringBootAdmin示例项目源码" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加SpringBootAdmin示例项目源码" />
+    <MESSAGE value="添加spring-boot-mongo-demo源码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加spring-boot-mongo-demo源码" />
   </component>
 </project>
