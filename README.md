@@ -8,12 +8,20 @@
 ---
 
 ## SpringBoot教程
+
 1. [ssm_demo](https://blog.csdn.net/qq_28379809/article/details/83218797)
-2. [ssm_vue](https://blog.csdn.net/qq_28379809/article/details/87995524)
-3. [sso-auth2-demo](https://blog.csdn.net/qq_28379809/article/details/102734384)
-4. [spring-boot-admin-demo](https://blog.csdn.net/qq_28379809/article/details/102593592)
-5. [spring-boot-mongo-demo](https://blog.csdn.net/qq_28379809/article/details/102952974)
-6. [spring-boot-redis-demo](https://blog.csdn.net/qq_28379809/article/details/102961559)
+2. [spring-boot-admin-demo](https://blog.csdn.net/qq_28379809/article/details/102593592)
+3. [spring-boot-mongo-demo](https://blog.csdn.net/qq_28379809/article/details/102952974)
+4. [spring-boot-redis-demo](https://blog.csdn.net/qq_28379809/article/details/102961559)
+
+
+
+---
+
+## SpringSecurity教程
+
+1. [sso-auth2-demo](https://blog.csdn.net/qq_28379809/article/details/102734384)
+
 
 
 持续更新中...
