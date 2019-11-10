@@ -3,150 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d67b05e8-03b9-4c62-82a7-fe5a6184a8f0" name="Default Changelist" comment="修改readme，删除无效项目">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/nginx.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/src/main/java/com/eknows/SpringbootdemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/src/main/java/com/eknows/controller/LoginAction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/src/main/java/com/eknows/model/bean/common/JsonResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/src/main/java/com/eknows/model/bean/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/src/main/java/com/eknows/model/dao/UserDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/src/main/resources/mapper/UserDAO.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/ssm_demo/src/test/java/com/eknows/SpringbootdemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/user.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/src/components/home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/src/components/login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ssm-vue/vue-demo/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/.idea/$CACHE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/src/main/java/com/example/authserver/AuthServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/src/main/java/com/example/authserver/AuthServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/src/main/java/com/example/authserver/config/AuthServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/src/main/java/com/example/authserver/config/AuthServerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/src/main/java/com/example/authserver/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/src/main/java/com/example/authserver/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/src/main/java/com/example/authserver/controller/UserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/src/main/java/com/example/authserver/controller/UserAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/auth-server/src/test/java/com/example/authserver/AuthServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/auth-server/src/test/java/com/example/authserver/AuthServerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/src/main/java/com/example/clienta/ClientAApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/src/main/java/com/example/clienta/ClientAApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/src/main/java/com/example/clienta/config/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/src/main/java/com/example/clienta/config/MySecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/src/main/java/com/example/clienta/controller/IndexAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/src/main/java/com/example/clienta/controller/IndexAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/src/main/resources/templates/securedPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/src/main/resources/templates/securedPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-a/src/test/java/com/example/clienta/ClientAApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-a/src/test/java/com/example/clienta/ClientAApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/src/main/java/com/example/clientb/ClientBApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/src/main/java/com/example/clientb/ClientBApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/src/main/java/com/example/clientb/config/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/src/main/java/com/example/clientb/config/MySecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/src/main/java/com/example/clientb/controller/IndexAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/src/main/java/com/example/clientb/controller/IndexAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/src/main/resources/templates/securedPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/src/main/resources/templates/securedPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/client-b/src/test/java/com/example/clientb/ClientBApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/client-b/src/test/java/com/example/clientb/ClientBApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-sso-oauth2-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-sso-oauth2-demo/sso-oauth2-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/$CACHE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/src/main/java/com/example/adminserver/AdminServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/src/main/java/com/example/adminserver/AdminServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/admin-server/src/test/java/com/example/adminserver/AdminServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/admin-server/src/test/java/com/example/adminserver/AdminServerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/src/main/java/com/example/clientdemo/ClientDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/src/main/java/com/example/clientdemo/ClientDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/src/main/java/com/example/clientdemo/HelloAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/src/main/java/com/example/clientdemo/HelloAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/client-demo/src/test/java/com/example/clientdemo/ClientDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/client-demo/src/test/java/com/example/clientdemo/ClientDemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-admin-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-spring-boot-admin-demo/spring-boot-admin-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/src/main/java/com/example/mongodemo/JsonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/src/main/java/com/example/mongodemo/JsonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/src/main/java/com/example/mongodemo/MongoDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/src/main/java/com/example/mongodemo/MongoDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/src/main/java/com/example/mongodemo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/src/main/java/com/example/mongodemo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/src/main/java/com/example/mongodemo/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/src/main/java/com/example/mongodemo/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/src/test/java/com/example/mongodemo/MongoDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/src/test/java/com/example/mongodemo/MongoDemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-boot-mongo-demo/src/test/java/com/example/mongodemo/MongoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-boot-mongo-demo/src/test/java/com/example/mongodemo/MongoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/src/main/java/com/example/redisdemo/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/src/main/java/com/example/redisdemo/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/src/main/java/com/example/redisdemo/RedisDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/src/main/java/com/example/redisdemo/RedisDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/src/test/java/com/example/redisdemo/RedisDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/src/test/java/com/example/redisdemo/RedisDemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-boot-redis-demo/src/test/java/com/example/redisdemo/RedisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/05-spring-boot-redis-demo/src/test/java/com/example/redisdemo/RedisTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -204,7 +60,8 @@
       <workItem from="1571929851490" duration="729000" />
       <workItem from="1572437346409" duration="1517000" />
       <workItem from="1573102176339" duration="1152000" />
-      <workItem from="1573139452761" duration="460000" />
+      <workItem from="1573139452761" duration="977000" />
+      <workItem from="1573224260441" duration="2054000" />
     </task>
     <task id="LOCAL-00001" summary="添加SpringSecurity+OAuth2实现单点登陆系统的示例项目">
       <created>1571930024294</created>
@@ -234,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573139215335</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改readme，删除无效项目">
+      <created>1573140005668</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573140005668</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
