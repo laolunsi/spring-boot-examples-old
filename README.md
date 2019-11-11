@@ -13,6 +13,7 @@
 2. [spring-boot-admin-demo](https://blog.csdn.net/qq_28379809/article/details/102593592)
 3. [spring-boot-mongo-demo](https://blog.csdn.net/qq_28379809/article/details/102952974)
 4. [spring-boot-redis-demo](https://blog.csdn.net/qq_28379809/article/details/102961559)
+5. [spring-boot-swagger-demo](https://blog.csdn.net/qq_28379809/article/details/103008307)
 
 
 
