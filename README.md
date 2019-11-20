@@ -16,6 +16,8 @@
 3. [spring-boot-mongo-demo](https://blog.csdn.net/qq_28379809/article/details/102952974)
 4. [spring-boot-redis-demo](https://blog.csdn.net/qq_28379809/article/details/102961559)
 5. [spring-boot-swagger-demo](https://blog.csdn.net/qq_28379809/article/details/103008307)
+6. [spring-boot-config](http://www.eknown.cn/index.php/spring-boot/config.html)
+
 
 
 
