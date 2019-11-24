@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d67b05e8-03b9-4c62-82a7-fe5a6184a8f0" name="Default Changelist" comment="修改readme，删除无效项目">
+    <list default="true" id="d67b05e8-03b9-4c62-82a7-fe5a6184a8f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,6 +62,10 @@
       <workItem from="1573102176339" duration="1152000" />
       <workItem from="1573139452761" duration="977000" />
       <workItem from="1573224260441" duration="2054000" />
+      <workItem from="1573397613403" duration="111000" />
+      <workItem from="1573878398135" duration="296000" />
+      <workItem from="1574086915703" duration="85000" />
+      <workItem from="1574599585690" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="添加SpringSecurity+OAuth2实现单点登陆系统的示例项目">
       <created>1571930024294</created>
@@ -98,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573140005668</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加swagger-demo">
+      <created>1573397674753</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573397674753</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +134,7 @@
     <MESSAGE value="添加SpringBootAdmin示例项目源码" />
     <MESSAGE value="添加spring-boot-mongo-demo源码" />
     <MESSAGE value="修改readme，删除无效项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改readme，删除无效项目" />
+    <MESSAGE value="添加swagger-demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加swagger-demo" />
   </component>
 </project>
