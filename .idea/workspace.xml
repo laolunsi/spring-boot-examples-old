@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d67b05e8-03b9-4c62-82a7-fe5a6184a8f0" name="Default Changelist" comment="" />
+    <list default="true" id="d67b05e8-03b9-4c62-82a7-fe5a6184a8f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +69,8 @@
       <workItem from="1574599585690" duration="50000" />
       <workItem from="1574609100824" duration="242000" />
       <workItem from="1575384402130" duration="430000" />
+      <workItem from="1575556669136" duration="140000" />
+      <workItem from="1575897258811" duration="454000" />
     </task>
     <task id="LOCAL-00001" summary="添加SpringSecurity+OAuth2实现单点登陆系统的示例项目">
       <created>1571930024294</created>
@@ -123,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575384758425</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加springboot统一异常处理">
+      <created>1575556779256</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575556779256</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +163,7 @@
     <MESSAGE value="添加swagger-demo" />
     <MESSAGE value="添加spring-boot-application-study" />
     <MESSAGE value="添加springboot时间参数处理解决方案" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加springboot时间参数处理解决方案" />
+    <MESSAGE value="添加springboot统一异常处理" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加springboot统一异常处理" />
   </component>
 </project>

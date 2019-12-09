@@ -1,0 +1,418 @@
+2019-12-09 09:43:00.839 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 10148 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 09:43:00.955 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: dev 
+2019-12-09 09:43:02.598 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8011 (http) 
+2019-12-09 09:43:02.635 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8011"] 
+2019-12-09 09:43:02.645 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 09:43:02.646 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 09:43:02.770 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 09:43:02.770 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1732 ms 
+2019-12-09 09:43:03.052 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:43:03.203 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 09:43:03.238 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8011"] 
+2019-12-09 09:43:03.268 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8011 (http) with context path '' 
+2019-12-09 09:43:03.272 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 3.453 seconds (JVM running for 4.787) 
+2019-12-09 09:43:03.274 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:43:03.274 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:43:03.274 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:43:53.926 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 09:43:53.927 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:44:36.376 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 11360 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 09:44:36.379 [main] DEBUG com.example.logbackdemo.LogbackDemoApplication - Running with Spring Boot v2.1.11.RELEASE, Spring v5.1.12.RELEASE 
+2019-12-09 09:44:36.379 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: prod 
+2019-12-09 09:44:37.721 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8011 (http) 
+2019-12-09 09:44:37.736 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8011"] 
+2019-12-09 09:44:37.746 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 09:44:37.747 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 09:44:37.858 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 09:44:37.858 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1343 ms 
+2019-12-09 09:44:38.149 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:44:38.322 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 09:44:38.359 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8011"] 
+2019-12-09 09:44:38.400 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8011 (http) with context path '' 
+2019-12-09 09:44:38.405 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.702 seconds (JVM running for 4.767) 
+2019-12-09 09:44:38.408 [main] DEBUG com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:44:38.409 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:44:38.409 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:44:38.409 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:45:35.886 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 09:45:35.887 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:50:30.113 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 6124 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 09:50:30.116 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - No active profile set, falling back to default profiles: default 
+2019-12-09 09:50:31.181 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8012 (http) 
+2019-12-09 09:50:31.194 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8012"] 
+2019-12-09 09:50:31.202 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 09:50:31.202 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 09:50:31.294 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 09:50:31.294 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1030 ms 
+2019-12-09 09:50:31.515 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:50:31.647 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 09:50:31.682 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8012"] 
+2019-12-09 09:50:31.711 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8012 (http) with context path '' 
+2019-12-09 09:50:31.715 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.319 seconds (JVM running for 4.129) 
+2019-12-09 09:50:31.717 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:50:31.717 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:50:31.717 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:50:37.304 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 09:50:37.305 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:50:41.275 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 9796 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 09:50:41.278 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - No active profile set, falling back to default profiles: default 
+2019-12-09 09:50:42.224 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8012 (http) 
+2019-12-09 09:50:42.237 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8012"] 
+2019-12-09 09:50:42.245 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 09:50:42.246 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 09:50:42.348 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 09:50:42.349 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 973 ms 
+2019-12-09 09:50:42.674 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:50:42.815 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 09:50:42.845 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8012"] 
+2019-12-09 09:50:42.865 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8012 (http) with context path '' 
+2019-12-09 09:50:42.868 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.168 seconds (JVM running for 3.423) 
+2019-12-09 09:50:42.870 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:50:42.870 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:50:42.870 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:50:58.384 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 09:50:58.385 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:51:13.390 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 15184 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 09:51:13.457 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - No active profile set, falling back to default profiles: default 
+2019-12-09 09:51:14.482 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8012 (http) 
+2019-12-09 09:51:14.495 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8012"] 
+2019-12-09 09:51:14.503 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 09:51:14.503 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 09:51:14.594 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 09:51:14.594 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1050 ms 
+2019-12-09 09:51:14.823 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:51:14.963 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 09:51:15.005 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8012"] 
+2019-12-09 09:51:15.055 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8012 (http) with context path '' 
+2019-12-09 09:51:15.062 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.253 seconds (JVM running for 3.561) 
+2019-12-09 09:51:15.065 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:51:15.066 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:51:15.066 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:51:48.641 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 09:51:48.642 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:56:34.477 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 13628 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 09:56:34.480 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: local 
+2019-12-09 09:56:35.639 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8013 (http) 
+2019-12-09 09:56:35.652 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8013"] 
+2019-12-09 09:56:35.660 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 09:56:35.660 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 09:56:35.758 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 09:56:35.758 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1140 ms 
+2019-12-09 09:56:36.024 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 09:56:36.148 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 09:56:36.179 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8013"] 
+2019-12-09 09:56:36.203 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8013 (http) with context path '' 
+2019-12-09 09:56:36.205 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.344 seconds (JVM running for 4.315) 
+2019-12-09 09:56:36.208 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:56:36.208 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:56:36.208 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 09:58:00.016 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - Êú¨Ê¨°ÂÆöÊó∂Âô®ÂêØÂä®Êó∂Èó¥Ôºö2019-12-9 9:58:00 
+2019-12-09 09:58:00.016 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÊÄé‰πà‰∏ÄÁõ¥Âú®ÂêØÂä®Âë¢Ôºü 
+2019-12-09 09:58:00.016 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÂÖ≥Èó≠Â§±Ë¥•‰∫ÜÔºÅÔºÅÔºÅ 
+2019-12-09 10:00:00.002 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - Êú¨Ê¨°ÂÆöÊó∂Âô®ÂêØÂä®Êó∂Èó¥Ôºö2019-12-9 10:00:00 
+2019-12-09 10:00:00.002 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÊÄé‰πà‰∏ÄÁõ¥Âú®ÂêØÂä®Âë¢Ôºü 
+2019-12-09 10:00:00.002 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÂÖ≥Èó≠Â§±Ë¥•‰∫ÜÔºÅÔºÅÔºÅ 
+2019-12-09 10:00:20.041 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 11332 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:00:20.044 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: prod 
+2019-12-09 10:00:21.166 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8011 (http) 
+2019-12-09 10:00:21.194 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:00:21.204 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:00:21.205 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:00:21.368 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:00:21.369 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1212 ms 
+2019-12-09 10:00:21.616 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:00:21.736 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:00:21.765 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:00:21.791 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8011 (http) with context path '' 
+2019-12-09 10:00:21.794 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.446 seconds (JVM running for 4.2) 
+2019-12-09 10:00:21.796 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 10:00:21.796 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 10:00:21.796 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 10:00:51.608 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:00:51.610 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:00:57.969 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 21444 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:00:58.006 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: prod 
+2019-12-09 10:00:58.850 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8011 (http) 
+2019-12-09 10:00:58.863 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:00:58.872 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:00:58.872 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:00:59.003 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:00:59.003 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 960 ms 
+2019-12-09 10:00:59.242 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:00:59.360 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:00:59.390 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:00:59.412 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8011 (http) with context path '' 
+2019-12-09 10:00:59.415 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 1.972 seconds (JVM running for 3.87) 
+2019-12-09 10:00:59.418 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 10:00:59.418 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 10:00:59.418 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 10:02:00.000 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - Êú¨Ê¨°ÂÆöÊó∂Âô®ÂêØÂä®Êó∂Èó¥Ôºö2019-12-9 10:02:00 
+2019-12-09 10:02:00.001 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÊÄé‰πà‰∏ÄÁõ¥Âú®ÂêØÂä®Âë¢Ôºü 
+2019-12-09 10:02:00.001 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÂÖ≥Èó≠Â§±Ë¥•‰∫ÜÔºÅÔºÅÔºÅ 
+2019-12-09 10:02:00.003 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - Êú¨Ê¨°ÂÆöÊó∂Âô®ÂêØÂä®Êó∂Èó¥Ôºö2019-12-9 10:02:00 
+2019-12-09 10:02:00.003 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÊÄé‰πà‰∏ÄÁõ¥Âú®ÂêØÂä®Âë¢Ôºü 
+2019-12-09 10:02:00.003 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÂÖ≥Èó≠Â§±Ë¥•‰∫ÜÔºÅÔºÅÔºÅ 
+2019-12-09 10:02:41.853 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:02:41.854 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:02:46.414 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 17064 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:02:46.419 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: local 
+2019-12-09 10:02:47.431 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8013 (http) 
+2019-12-09 10:02:47.445 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8013"] 
+2019-12-09 10:02:47.453 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:02:47.454 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:02:47.551 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:02:47.552 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 969 ms 
+2019-12-09 10:02:47.891 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:02:48.043 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:02:48.070 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8013"] 
+2019-12-09 10:02:48.081 [main] ERROR org.apache.catalina.util.LifecycleBase - Failed to start component [Connector[HTTP/1.1-8013]] 
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:227)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:263)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:195)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:297)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:163)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204)
+	at com.example.logbackdemo.LogbackDemoApplication.main(LogbackDemoApplication.java:16)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:230)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:213)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1142)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1228)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:586)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005)
+	... 14 common frames omitted
+2019-12-09 10:02:48.086 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8013"] 
+2019-12-09 10:02:48.087 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2019-12-09 10:02:48.093 [main] INFO  org.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored. 
+2019-12-09 10:02:48.094 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8013"] 
+2019-12-09 10:02:48.094 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8013"] 
+2019-12-09 10:02:48.097 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2019-12-09 10:02:48.102 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8013 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8013, or configure this application to listen on another port.
+ 
+2019-12-09 10:02:48.104 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:02:48.105 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:03:03.233 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 240 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:03:03.236 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: local 
+2019-12-09 10:03:04.913 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8015 (http) 
+2019-12-09 10:03:04.928 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:03:04.936 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:03:04.937 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:03:05.039 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:03:05.039 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1693 ms 
+2019-12-09 10:03:05.284 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:03:05.405 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:03:05.434 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:03:05.456 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8015 (http) with context path '' 
+2019-12-09 10:03:05.459 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.937 seconds (JVM running for 4.276) 
+2019-12-09 10:03:05.461 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 10:03:05.461 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 10:03:05.462 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - È°πÁõÆÂêØÂä®ÂÆåÊØï... 
+2019-12-09 10:03:34.956 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:03:34.958 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:04:00.012 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - Êú¨Ê¨°ÂÆöÊó∂Âô®ÂêØÂä®Êó∂Èó¥Ôºö2019-12-9 10:04:00 
+2019-12-09 10:04:00.012 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÊÄé‰πà‰∏ÄÁõ¥Âú®ÂêØÂä®Âë¢Ôºü 
+2019-12-09 10:04:00.012 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÂÖ≥Èó≠Â§±Ë¥•‰∫ÜÔºÅÔºÅÔºÅ 
+2019-12-09 10:05:36.519 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 20416 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:05:36.523 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: local 
+2019-12-09 10:05:37.536 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8015 (http) 
+2019-12-09 10:05:37.550 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:05:37.558 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:05:37.559 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:05:37.653 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:05:37.654 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1030 ms 
+2019-12-09 10:05:37.871 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:05:37.992 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:05:38.021 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:05:38.044 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8015 (http) with context path '' 
+2019-12-09 10:05:38.047 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.129 seconds (JVM running for 3.832) 
+2019-12-09 10:05:38.048 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:05:38.049 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:05:38.049 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:06:00.002 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - Êú¨Ê¨°ÂÆöÊó∂Âô®ÂêØÂä®Êó∂Èó¥Ôºö2019-12-9 10:06:00 
+2019-12-09 10:06:00.003 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÊÄé‰πà‰∏ÄÁõ¥Âú®ÂêØÂä®Âë¢Ôºü 
+2019-12-09 10:06:00.003 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÂÖ≥Èó≠Â§±Ë¥•‰∫ÜÔºÅÔºÅÔºÅ 
+2019-12-09 10:06:00.005 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:06:00 
+2019-12-09 10:06:00.005 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:06:00.006 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:07:27.701 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:07:27.704 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:07:32.046 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 7476 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:07:32.048 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: dev 
+2019-12-09 10:07:33.354 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8011 (http) 
+2019-12-09 10:07:33.366 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:07:33.375 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:07:33.375 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:07:33.469 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:07:33.469 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1371 ms 
+2019-12-09 10:07:33.691 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:07:33.820 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:07:33.854 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:07:33.881 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8011 (http) with context path '' 
+2019-12-09 10:07:33.886 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.455 seconds (JVM running for 3.762) 
+2019-12-09 10:07:33.887 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:07:33.888 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:07:33.888 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:08:00.005 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - Êú¨Ê¨°ÂÆöÊó∂Âô®ÂêØÂä®Êó∂Èó¥Ôºö2019-12-9 10:08:00 
+2019-12-09 10:08:00.005 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÊÄé‰πà‰∏ÄÁõ¥Âú®ÂêØÂä®Âë¢Ôºü 
+2019-12-09 10:08:00.006 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ÂÆöÊó∂Âô®ÂÖ≥Èó≠Â§±Ë¥•‰∫ÜÔºÅÔºÅÔºÅ 
+2019-12-09 10:08:00.007 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:08:00 
+2019-12-09 10:08:00.008 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:08:00.008 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:08:55.439 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:08:55.440 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:09:50.909 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:09:50.911 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:11:28.807 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 20216 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:11:28.810 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: local 
+2019-12-09 10:11:29.962 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8015 (http) 
+2019-12-09 10:11:29.975 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:11:29.982 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:11:29.983 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:11:30.075 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:11:30.075 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1151 ms 
+2019-12-09 10:11:30.315 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:11:30.432 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:11:30.463 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:11:30.487 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8015 (http) with context path '' 
+2019-12-09 10:11:30.492 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.34 seconds (JVM running for 3.544) 
+2019-12-09 10:11:30.493 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:11:30.493 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:11:30.493 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:11:51.327 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:11:51.329 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:11:55.988 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 14236 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:11:55.990 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: local 
+2019-12-09 10:11:57.084 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8015 (http) 
+2019-12-09 10:11:57.101 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:11:57.110 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:11:57.110 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:11:57.220 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:11:57.221 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1136 ms 
+2019-12-09 10:11:57.444 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:11:57.563 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:11:57.595 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:11:57.623 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8015 (http) with context path '' 
+2019-12-09 10:11:57.628 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.238 seconds (JVM running for 3.546) 
+2019-12-09 10:11:57.629 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:11:57.630 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:11:57.630 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:12:00.008 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:12:00 
+2019-12-09 10:12:00.009 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:12:00.009 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:12:44.750 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:12:44.752 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:12:49.099 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 8852 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:12:49.102 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: local 
+2019-12-09 10:12:50.044 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8015 (http) 
+2019-12-09 10:12:50.056 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:12:50.064 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:12:50.064 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:12:50.163 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:12:50.164 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 970 ms 
+2019-12-09 10:12:50.392 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:12:50.516 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:12:50.544 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8015"] 
+2019-12-09 10:12:50.566 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8015 (http) with context path '' 
+2019-12-09 10:12:50.570 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.07 seconds (JVM running for 3.777) 
+2019-12-09 10:12:50.571 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:12:50.571 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:12:50.572 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:14:00.004 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:14:00 
+2019-12-09 10:14:00.005 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:14:00.005 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:14:05.685 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:14:05.686 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:14:10.126 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 7768 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:14:10.130 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: local 
+2019-12-09 10:14:11.126 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8011 (http) 
+2019-12-09 10:14:11.139 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:14:11.148 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:14:11.149 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:14:11.243 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:14:11.243 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1031 ms 
+2019-12-09 10:14:11.508 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:14:11.627 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:14:11.662 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:14:11.689 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8011 (http) with context path '' 
+2019-12-09 10:14:11.692 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.173 seconds (JVM running for 3.525) 
+2019-12-09 10:14:11.694 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:14:11.694 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:14:11.694 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:14:35.750 [http-nio-8011-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2019-12-09 10:14:35.750 [http-nio-8011-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2019-12-09 10:14:35.763 [http-nio-8011-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms 
+2019-12-09 10:15:47.724 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:15:47.725 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:15:52.927 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on DESKTOP-V748F38 with PID 1364 (D:\zfh\myProject\11-spring-boot-logback-demo\target\classes started by zhangfanghao in D:\zfh\myProject\11-spring-boot-logback-demo) 
+2019-12-09 10:15:52.929 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - The following profiles are active: local 
+2019-12-09 10:15:53.826 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8011 (http) 
+2019-12-09 10:15:53.840 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:15:53.848 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2019-12-09 10:15:53.848 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29] 
+2019-12-09 10:15:53.939 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2019-12-09 10:15:53.940 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 916 ms 
+2019-12-09 10:15:54.199 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-12-09 10:15:54.417 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2019-12-09 10:15:54.452 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8011"] 
+2019-12-09 10:15:54.477 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8011 (http) with context path '' 
+2019-12-09 10:15:54.481 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 2.266 seconds (JVM running for 4.69) 
+2019-12-09 10:15:54.483 [main] INFO  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:15:54.483 [main] WARN  com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:15:54.483 [main] ERROR com.example.logbackdemo.LogbackDemoApplication - œÓƒø∆Ù∂ØÕÍ±œ... 
+2019-12-09 10:16:00.018 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:16:00 
+2019-12-09 10:16:00.022 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:16:00.023 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:18:00.003 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:18:00 
+2019-12-09 10:18:00.004 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:18:00.004 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:18:49.966 [http-nio-8011-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2019-12-09 10:18:49.967 [http-nio-8011-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2019-12-09 10:18:49.975 [http-nio-8011-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms 
+2019-12-09 10:18:50.005 [http-nio-8011-exec-1] INFO  com.example.logbackdemo.IndexAction - ≤‚ ‘logger±Í«© 
+2019-12-09 10:18:50.006 [http-nio-8011-exec-1] WARN  com.example.logbackdemo.IndexAction - ≤‚ ‘logger±Í«© 
+2019-12-09 10:18:50.006 [http-nio-8011-exec-1] ERROR com.example.logbackdemo.IndexAction - ≤‚ ‘logger±Í«© 
+2019-12-09 10:20:00.001 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:20:00 
+2019-12-09 10:20:00.002 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:20:00.002 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:22:00.002 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:22:00 
+2019-12-09 10:22:00.004 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:22:00.004 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:24:00.001 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:24:00 
+2019-12-09 10:24:00.002 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:24:00.002 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:26:00.002 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:26:00 
+2019-12-09 10:26:00.003 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:26:00.003 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:28:00.003 [scheduling-1] INFO  com.example.logbackdemo.LogTimer - ±æ¥Œ∂® ±∆˜∆Ù∂Ø ±º‰£∫2019-12-9 10:28:00 
+2019-12-09 10:28:00.003 [scheduling-1] WARN  com.example.logbackdemo.LogTimer - ∂® ±∆˜‘ı√¥“ª÷±‘⁄∆Ù∂Øƒÿ£ø 
+2019-12-09 10:28:00.004 [scheduling-1] ERROR com.example.logbackdemo.LogTimer - ∂® ±∆˜πÿ±’ ß∞‹¡À£°£°£° 
+2019-12-09 10:28:25.213 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler' 
+2019-12-09 10:28:25.214 [Thread-6] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 

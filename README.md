@@ -24,7 +24,7 @@
 6. [spring-boot-config](http://www.eknown.cn/index.php/spring-boot/config.html)
 7. [spring-boot-application-study](http://www.eknown.cn/index.php/spring-boot/spring-boot-application.html)
 8. spring-boot-params-time-demo: [SpringBoot项目接收时间类型参数完整解决方案](http://www.eknown.cn/index.php/spring-boot/params-time.html)
-
+9. spring-boot-logback-demo: [SpringBoot日志管理之Logback](http://www.eknown.cn/index.php/spring-boot/logback.html)
 
 ---
 
