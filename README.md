@@ -1,10 +1,6 @@
 # SpringBoot系列基本教程
 该仓库为springboot快速上手教程对应的示例代码，主要讲解SpringBoot相关的技术，后续计划包括SpringSecurity、SpringCloud、Spring源码等内容。
 
-未出现于教程目录中的子项目可能存在一些问题，请各位悉知。
-
-纯净阅读请到：**[http://www.eknown.cn](http://www.eknown.cn)**
-
 如果该系列教程对您有所帮助的话，还请点个star给予支持！感谢！
 
 ---
