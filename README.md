@@ -21,7 +21,8 @@
 7. spring-boot-application-study: [SpringBoot Application深入学习](http://www.eknown.cn/index.php/spring-boot/spring-boot-application.html)
 8. spring-boot-params-time-demo: [SpringBoot项目接收时间类型参数完整解决方案](http://www.eknown.cn/index.php/spring-boot/params-time.html)
 9. spring-boot-exception-demo: [SpringBoot统一异常处理](http://www.eknown.cn/index.php/spring-boot/exception-handler.html)
-9. spring-boot-logback-demo: [SpringBoot日志管理之Logback](http://www.eknown.cn/index.php/spring-boot/logback.html)
+10. spring-boot-logback-demo: [SpringBoot日志管理之Logback](http://www.eknown.cn/index.php/spring-boot/logback.html)
+11. spring-boot-mail-demo: [SpringBoot发送邮件]()
 
 ---
 
