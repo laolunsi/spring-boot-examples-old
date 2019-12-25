@@ -1,4 +1,11 @@
 # SpringBoot系列基本教程
+---
+
+**本仓库不再更新，请移步新仓库[https://github.com/laolunsi/spring-boot-stack](https://github.com/laolunsi/spring-boot-stack)**
+
+---
+
+
 该仓库为springboot快速上手教程对应的示例代码，主要讲解SpringBoot相关的技术，后续计划包括SpringSecurity、SpringCloud、Spring源码等内容。
 
 如果该系列教程对您有所帮助的话，还请点个star给予支持！感谢！
