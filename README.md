@@ -43,12 +43,20 @@
 
 ---
 
-## 学习讨论
+## 加入微信群
 
-个人微信：**guanlanju6688**
+添加我的个人微信，备注 **加群** 即可。欢迎大家加入，一起分享学习和开发中遇到的问题！
 
-QQ群：701365388（群内不大活跃）
+![file](http://zfh-public-blog.oss-cn-beijing.aliyuncs.com/image-1578371758406.png)
 
-个人公众号：**猿生物语**，或扫码：
 
-![](https://zfh-public-blog.oss-cn-beijing.aliyuncs.com/%E7%8C%BF%E7%94%9F%E7%89%A9%E8%AF%AD.jpg)
+## 关注公众号
+
+关注公众号：猿生物语。每周分享**干货**技术文章。
+可免费获取云盘学习资料。
+
+如果大家想要实时关注我的文章和分享动态的话，可以关注一下！
+
+![file](http://zfh-public-blog.oss-cn-beijing.aliyuncs.com/image-1578371742220.png)
+
+
